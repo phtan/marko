@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Tinkerings of P.H. <phtan90@gmail.com>
+hello_world/
+
 # Distribution / packaging
 .Python
 build/
